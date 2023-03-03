@@ -1,4 +1,6 @@
 # web_scraping_Mars
+![mars_1](https://user-images.githubusercontent.com/119361768/222659098-afd84f8a-c20b-4429-af82-66e431c442cb.jpg)
+
 
 # Deliverables
 
@@ -58,17 +60,21 @@ Tittles and preview text from Mars news articles:
 ## Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 ### Mars DataFrame
 ![df](https://user-images.githubusercontent.com/119361768/222656995-14459e00-ee75-46ba-9ba5-3fe4fdeeb611.png)
+
 Full DataFrame can be found in Mars Analysis > mars_table.csv
 
 ### Analysis
 1. There are 12 months on Mars
 2. There are 1867 Martian days' worth of data.
 3. The coldest month is month number 3 at -83.31 degrees. The hottest month is month number 8 at -68.38 degrees. These are the average low temperature by month: 
+4. 
 ![download](https://user-images.githubusercontent.com/119361768/222657866-f1f9fce3-a029-48be-9660-a066b672d1d1.png)
 
 4. Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
 ![download](https://user-images.githubusercontent.com/119361768/222658187-b0664716-cb15-4a04-9243-acd862e9e6e9.png)
 
 5. The distance from peak to peak is roughly 1450 minus 775, or 675 days. A year on Mars appears to be about 675 days from the plot.
+6. 
 ![download](https://user-images.githubusercontent.com/119361768/222658331-6b7b3577-25ca-4b56-8a0a-f4a3faf99d3c.png)
 
